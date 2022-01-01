@@ -1,0 +1,13 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Faris Ashai <farisashai@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
